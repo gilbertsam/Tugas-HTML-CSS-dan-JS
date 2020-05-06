@@ -1,0 +1,50 @@
+#myHeader{
+  background-color: #222831;
+  color:#FFFFFF;
+  padding: 50px;
+  text-align: left;
+  font-family: "Segoe UI Light",Courier,sans-serif;
+}
+.myBody{
+  background-color: #30475e;
+  color:#FFFFFF ;
+  font-family: "Microsoft YaHei UI Light", Courier,monospace;
+}
+.SecondHTML{
+  background-color: #8ec6c5;
+  color:white;
+  font-family: "Century Gothic",Courier,sans-serif;
+  padding:50px;
+}
+body{
+  background-color: #f4f4f4;
+}
+hr{
+  background-color: #ffd86;
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width:5px;
+  width: 3%;
+}
+h1{
+  color: #000000;;
+}
+h3{
+  font-family: "Microsoft YaHei UI Light", Courier,monospace;
+  color: #000000;
+}
+p{
+  color: #000000;
+}
+th{
+  color:#000000;
+  font-family: "Microsoft YaHei UI Light", Courier,monospace;
+}
+td{
+  color:#000000;
+  font-family: "Microsoft YaHei UI Light", Courier,monospace;
+}
+p.monospace{
+  font-family: "Microsoft YaHei UI Light", Courier, monospace;
+}
