@@ -1,2 +1,2 @@
-# Tugas-HTML-CSS-dan-JS
+# Website
 ini merupakan tugas Interaksi Manusia Komputer
